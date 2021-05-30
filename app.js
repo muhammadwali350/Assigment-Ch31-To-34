@@ -54,16 +54,16 @@
 
 // Task 5 //
 
-// Not Completed But it will be Complete //
-
-// var monthName = ["January", "February", "March", "april", "May", "june", "July", "aug", "sep", "oct", "november", "december"]
 // var now  = new Date();
-// var theMonth = now.getMonth();
-// var theDay = now.getDay();
-// var b = theDay.toString();
-// var c = theMonth.toString();
-// var nameOfMonth = monthName[theMonth] +  " " + [theDay];
-// console.log(nameOfMonth);
+// var day = date.getDate();
+
+// if(day <= 15){
+//     alert("First fifteen Days");
+// }
+// else if(day >= 16){
+//     alert("Last Day Of the Month");
+// }
+
 
 // Task 6 //
 
@@ -136,3 +136,53 @@
 
 // Task 8 //
 
+// In complete //
+
+// Task 9 //
+
+// In Complete //
+
+// -------Task 10 ------- //
+
+// var date = new Date();
+// var get = date.getSeconds();
+// var d1 = new Date(2015,4,5);
+// var d2 = d1.getSeconds();
+// console.log(d1 - get);
+
+
+// --------Task 11 ------- //
+
+// let cdate = new Date();
+// let d = new Date();
+// d.setDate(d.getDate() - 1);
+// document.write(cdate); 
+// document.write(d);
+
+
+// ------- Task 12 ------- //
+
+// var currentDate = new Date();
+// var oneYearFromNow = new Date();
+// oneYearFromNow.setFullYear(oneYearFromNow.getFullYear() - 100);
+// document.write(currentDate + "<br>", "100 years", " " + oneYearFromNow);
+
+// ------Task 13 ------ //
+
+// Not Answered Yet //
+
+// ------ Task 14 ------ //
+
+// let customerName = "Wali";
+// let currentMonth = Date();
+// let numberOfUnits = 445;
+// let chargesPerUnit = 18;
+
+// let netAmountPayable = 6900;
+// let latePaymentSurCharge = 400;
+// let grossAmountPayable = 7000; 
+
+// document.write("");
+// document.write("");
+// document.write("");
+// document.write("");
